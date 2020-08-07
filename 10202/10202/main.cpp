@@ -4,7 +4,7 @@
 ... 2020-08-07 FRI
 ... 10202 D5
 
-https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXJZ6_6KCLcDFAU3&categoryId=AXJZ6_6KCLcDFAU3&categoryType=CODE
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXMCa8EaVioDFAWv&categoryId=AXMCa8EaVioDFAWv&categoryType=CODE
 */
 
 #include <iostream>
