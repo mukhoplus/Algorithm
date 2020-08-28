@@ -25,8 +25,8 @@ for tc in range(1, T+1):
     B = list(map(int, input().split())) # 여기에 있는 숫자를 A에서 찾을거임
 
     cnt = 0
-    where = 0
     for k in(B):
+        where = 0
         BinarySearch(A, 0, len(A)-1, k)
 
     print("#%d %d"%(tc, cnt))
